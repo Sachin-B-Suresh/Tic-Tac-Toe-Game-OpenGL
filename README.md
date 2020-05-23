@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Game-OpenGL
-Animation the game Tic Tac Toe
+Tic Tac Toe game that makes use of OpenGL
